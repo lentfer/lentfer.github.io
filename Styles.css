@@ -1,0 +1,23 @@
+
+body {
+  background: #66BB6A;
+  font-family: 'EB Garamond', serif;
+  text-align: center;
+  color: FFF59D;
+  padding: 0;
+  margin: 0;
+}
+
+#header {
+  background-color: E67B78;
+  color: 000000;
+  margin: 1
+}
+
+#purple {
+  color: BA68C8;
+}
+
+#special {
+  color: 03A9F4;
+}
